@@ -1,7 +1,7 @@
 # ml_uni_projects
 Projects from the course “Machine learning and extracting patterns from data” in the Faculty of Mathematics and Informatics, Sofia University.
 
-Standarts for model reports: 
+**Standarts for model reports: **
 
 1. Each row is a hypothesis - a model that was trained and evaluated.
 2. The columns are divided into two sets: the first set of columns represent the values of the hyperparameters of the model, the second set: the metrics on the test set. Do not use more than 3 metrics.

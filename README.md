@@ -1,5 +1,4 @@
 # ml_uni_projects
-# ml_uni_projects
 
 **Projects from the course “Machine Learning and Extracting Patterns from Data” at the Faculty of Mathematics and Informatics, Sofia University.**
 

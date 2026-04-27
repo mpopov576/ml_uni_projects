@@ -1,4 +1,4 @@
-This project is based on a dataset provided by Restaurant GPT
+**This project is based on a dataset provided by Restaurant GPT**
 
 Restaurant ratings play a crucial role in determining visibility, customer acquisition, and revenue. Higher-rated restaurants tend to attract more users and generate greater business success.
 

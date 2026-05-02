@@ -39,7 +39,7 @@ scaler = StandardScaler()
 df_scaled = pd.DataFrame(scaler.fit_transform(df), columns=df.columns)
 df_scaled = df_scaled.loc[:, df_scaled.std() != 0]
 
-df_scaled.to_csv("processed_data")
+df_scaled.to_csv("processed_data.csv")
 
 
 # df_processed_audit = df_scaled.describe(include="all").T

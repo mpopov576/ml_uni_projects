@@ -1,4 +1,4 @@
-##This project focuses on building a system for object detection in real-world images.##
+**This project focuses on building a system for object detection in real-world images.**
 
 Object detection is a computer vision task that identifies and localizes objects within an image. It is widely used in applications such as robotics and autonomous systems.
 

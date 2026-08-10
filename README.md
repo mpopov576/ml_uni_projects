@@ -2,6 +2,11 @@
 
 **Projects from the course “Machine Learning and Extracting Patterns from Data” at the Faculty of Mathematics and Informatics, Sofia University.**
 
+The `data_audits` and `model_reports' folders are the intended output 
+of this project and are the best entry point if you want to see results. 
+The `.py` scripts were written quickly for internal use and aren't 
+cleaned up for readability.
+
 <details>
 <summary><strong>Standards for Model Reports</strong></summary>
 
